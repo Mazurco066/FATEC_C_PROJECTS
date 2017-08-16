@@ -1,0 +1,7 @@
+1 2 4 8 16 32 64 128 256 512 1024 2048
+
+512 + 128 + 64  16 + 8 + 4 + 2 + 1
+
+00000010 11011111 = 735 - bytes do windows sao invertidos ou seja o proximo byte vai antes do byte do endereço
+anterior
+
